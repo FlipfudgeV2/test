@@ -13,4 +13,4 @@ Simple TikTok Username Availability Checker with Discord Webhook
 Available usernames will be saved in hits.txt file and taken usernames will be saved in taken.txt file.
 Also there is a chance that your ip may get temporary banned so just use vpn.
 Currently working on a faster version...
-<img src="https://github.com/endowedtao/TikTok-Username-Checker/blob/main/showcase.png">
+<img src="https://github.com/r6f/TikTok-Username-Checker/blob/main/showcase.png">
